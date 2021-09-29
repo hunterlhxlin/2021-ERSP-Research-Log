@@ -2,7 +2,7 @@
 ### Goals:
 
 [ ] Attend research group meeting and record attendance
-Set up research log
+[ ] Set up research log
 Complete Reflection 1: Identity and ERSP preliminary thoughts
 Reflect on research logs
 Accomplishments
