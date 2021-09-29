@@ -2,12 +2,12 @@
 ### Goals:
 
 - [ ] Attend research group meeting and record attendance
-- [ ] Set up research log
-- [ ] Complete Reflection 1: Identity and ERSP preliminary thoughts
-- [ ] Reflect on research logs
+- [x] Set up research log
+- [x] Complete Reflection 1: Identity and ERSP preliminary thoughts
+- [x] Reflect on research logs
 - [ ] Get started on reading research materials
 
-### Tuesday, Sept 28 (1 hour):
+### Tuesday, Sept 28 (0.5 hour):
 #### Accomplishments
 - Complete Draft of Reflection 1
 - Signed th ERSP contract
