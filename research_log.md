@@ -6,17 +6,18 @@
 - [x] Set up research log
 - [x] Complete Reflection 1: Identity and ERSP preliminary thoughts
 - [x] Reflect on research logs
+- [x] Signed th ERSP contract
 - [ ] Get started on reading research materials
 
 ### Tuesday, Sept 28 (0.5 hour):
 #### Accomplishments
 - Complete Draft of Reflection 1
-- Signed th ERSP contract
 
 ### Wednesday, Sept 29 (1 hour):
 #### Accomplishments
-- Set up log.
+- Set up log
 - Wrote log reflection
+- Signed th ERSP contract
 
 #### Log Reflections
 - How did the logs differ in style (not just in content)? What advantages do you see in one style over another?
