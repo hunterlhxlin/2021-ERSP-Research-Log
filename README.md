@@ -10,3 +10,6 @@ Accomplishments
 Set up log.
 Wrote log reflection
 Tuesday, Oct 2 (1.5 hours):
+- [x] 完成更改
+- [ ] 推送提交到 GitHub
+- [ ] 打开拉取请求
