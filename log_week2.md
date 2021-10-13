@@ -12,7 +12,7 @@
 #### Accomplishments
 - Update research log
 - Watching Lecture that introduced the research topic
-  -Introduction to Information Retrieval and Web Search 
+--Introduction to Information Retrieval and Web Search 
 
 ### Wednesday, Oct 6(1.5 hour):
 #### Accomplishments
