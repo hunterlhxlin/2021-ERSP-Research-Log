@@ -13,6 +13,19 @@
 - Update research log
 - Watching Lecture that introduced the research topic
   - Introduction to Information Retrieval and Web Search 
+    - Spider (a.k.a. crawler/robot) – builds corpus & Collects web pages recursively
+      - For each known URL, fetch the page, parse it, and extract new URLs
+      - Repeat
+      - Additional pages from direct submissions & other sources
+• Indexer and offline text mining
+§ create inverted indexes so online system can
+search
+§ Enrich knowledge on things and their relationship
+(e.g. names and events) and documents though
+data mining and learning
+• Online query process– serves query results
+§ Front end – query reformulation, word processing
+§ Back end – finds matching documents and ranks them
 
 ### Wednesday, Oct 6(1.5 hour):
 #### Accomplishments
