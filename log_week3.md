@@ -1,5 +1,5 @@
 # ERSP Research Log
-## Week 2 (10.4-10.10)
+## Week 3 (10.11-10.17)
 ### Goals:
 
 - [ ] Update research log
