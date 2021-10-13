@@ -61,7 +61,48 @@
 #### Accomplishments
 - Meet with professor via zoom, starting at 1:10pm
 #### Study Log
-
+- Inverted index: Each index term is associated with an inverted list
+  - Contains lists of documents, or lists of word occurrences in documents, and other information
+    - Support multiple ranking features, word counts, etc.  
+  - Each entry is called a posting or postings
+  - Lists are usually document-ordered (sorted by document number)
+  - Used to speed up search process
+- Data compression: Encoding and Decoding
+  - For modern internet, too many documents
+  - Compress data to save disk and memory space
+    1 Delta Encoding - encode differences between consecutive numbers, if all document IDs are not very sparse
+    2 V-byte encoding: instead of 4-byte for every integer, smaller number has smaller size: an binary identifier 
+    3 Huffman Encoding: more frequent numbers becomes shorter after encoding
+    - all methods only works well under specific situations
+- Fast Ranking Approaches
+  - Simplest way: sum all term socres in the query, TF-IDF, BM25, etc.
+  - Term-at-a-Time (TAAT) query processing
+    - reads posting lists for query terms successively
+    - maintains an accumulator for each result document with value
+  - Document-at-a-time (DAAT)
+    - Assumes document-ordered posting lists
+    - Reads posting lists for query terms concurrently
+    - Computes score when same document is seen in one or more posting lists
+    - Always advances posting list with lowest current document identifier
+  - Pruning: to optimize, skip postings that will not be part of the search results
+    - Skip pointers
+      - Tradeoff:
+        - More skips - shorter skip spans Þ more likely to skip. But lots of comparisons to skip pointers.
+        - Fewer skips - few pointer comparison, but then long skip spans Þ few successful skips.
+    - Early Termination: stop early, skipping, and partial scoring
+    - Weak AND(WAND) query processing
+      - Maintain a current document ID pointer at each posting list of term t: cdid(t)
+      - MaxScore(t) is the maximum term score in term t’s posting list.
+      - Dynamically maintain minScore as minimum score to be in top K
+      - Skip some documents which are impossible to be in top K
+        - if the score is lower than the current(searched) top K lower bound
+    - BlockMax WAND(BMW)
+      - Splits the inverted lists into blocks such that each block can be decompressed separately 
+      - Create an extra table, which stores for each block
+        - The max/min docID, Maximum score for each block
+        - Still need to compute the maximum score per term posting list
+      - Leverage more accurate per-block max score while skipping blocks of documents quickly
+      - only decompress "promising blocks" to make the rank process more efficient
 ### Friday, Oct 8(0.5 hour):
 #### Accomplishments
 - Update research log
