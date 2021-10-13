@@ -2,12 +2,12 @@
 ## Week 1 (9.27-10.3)
 ### Goals:
 
-- [ ] Attend research group meeting and record attendance
+- [x] Attend research group meeting and record attendance
 - [x] Set up research log
 - [x] Complete Reflection 1: Identity and ERSP preliminary thoughts
 - [x] Reflect on research logs
 - [x] Signed th ERSP contract
-- [ ] Get started on reading research materials
+- [X] Get started on reading research materials
 
 ### Tuesday, Sept 28 (0.5 hour):
 #### Accomplishments
