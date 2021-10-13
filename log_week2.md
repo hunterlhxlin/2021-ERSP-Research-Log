@@ -103,7 +103,7 @@
         - Still need to compute the maximum score per term posting list
       - Leverage more accurate per-block max score while skipping blocks of documents quickly
       - only decompress "promising blocks" to make the rank process more efficient
-### Friday, Oct 8(0.5 hour):
+### Friday, Oct 8(1 hour):
 #### Accomplishments
 - Update research log
 
