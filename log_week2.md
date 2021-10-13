@@ -1,5 +1,5 @@
 # ERSP Research Log
-## Week 1 (10.4-10.10)
+## Week 2 (10.4-10.10)
 ### Goals:
 
 - [x] Update research log
@@ -12,6 +12,7 @@
 #### Accomplishments
 - Update research log
 - Watching Lecture that introduced the research topic
+  -Introduction to Information Retrieval and Web Search 
 
 ### Wednesday, Oct 6(1.5 hour):
 #### Accomplishments
