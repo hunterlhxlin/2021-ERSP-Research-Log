@@ -12,6 +12,7 @@
 #### Accomplishments
 - Update research log
 - Watching Lecture that introduced the research topic
+#### Study Log
 - Introduction to Information Retrieval and Web Search 
   1 Spider (a.k.a. crawler/robot) – builds corpus & Collects web pages recursively
     - For each known URL, fetch the page, parse it, and extract new URLs
@@ -33,11 +34,33 @@
 #### Accomplishments
 - Update research log
 - study slides sent by professor about ranking
-- 
+#### Study Log
+- Aspects of ranking 
+  - Relevance
+    - Documents need to be relevant to a user query.
+  - Authoritativeness.
+    - High quality content is normally preferred since users rely on trustful information to learn or make a decision.
+  - Freshness.
+    - Latest information is desired for time-sensitive queries.
+  - Preference
+    - Personal or geographical preference can impact the choices
+- Weighted scoring for ranking
+  - linear combination of feature scores and weights
+    - Text frequency, Text proximity, etc.
+  - Query dependent and Query independent
+  - Modern system has more features: various text and document features
+  - Simple example of the method & how the set-up can be more complex and specific
+- Machine learning solution
+  - Support Vector Machine(SVM): create a hyper plane (decision surface) that does classification
+  - Convert ranking as SVM based classification
+    - each pair of document can be classified as if more is more relevent to the query than another or not
+    - ranking based on the relevence relations derived by the classification above
+
 
 ### Thursday, Oct 7(1 hour):
 #### Accomplishments
 - Meet with professor via zoom, starting at 1:10pm
+#### Study Log
 
 ### Friday, Oct 8(0.5 hour):
 #### Accomplishments
