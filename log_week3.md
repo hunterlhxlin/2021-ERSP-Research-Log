@@ -7,14 +7,14 @@
 - [ ] Meet and talk with porfesser and phd studentvia zoom
 - [ ] read the paper
 
-### Monday, Oct 5 (1.5 hour):
+### Monday, Oct 11 (1.5 hour):
 #### Accomplishments
 - Update research log
 - Read the paper assigned by the professor
 #### Study Log
 - 
 
-### Tuesday, Oct 5 (1.5 hour):
+### Tuesday, Oct 12 (1.5 hour):
 #### Accomplishments
 - Update research log
 - Read the paper assigned by the professor
@@ -22,15 +22,15 @@
 #### Study Log
 - 
 
-### Wednesday, Oct 6( hour):
+### Wednesday, Oct 13( hour):
 #### Accomplishments
 - 
-### Thursday, Oct 7( hour):
+### Thursday, Oct 14( hour):
 #### Accomplishments
 - Meet with phd student via zoom
 - Ask questions about the paper
 #### Study Log
 
-### Friday, Oct 8( hour):
+### Friday, Oct 15( hour):
 #### Accomplishments
 - 
