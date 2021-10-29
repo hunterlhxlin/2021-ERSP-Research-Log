@@ -22,15 +22,13 @@
 #### Study Log
 - 
 
-### Wednesday, Oct 13( hour):
-#### Accomplishments
-- 
-### Thursday, Oct 14( hour):
+### Thursday, Oct 14(1.5 hour):
 #### Accomplishments
 - Meet with phd student via zoom
 - Ask questions about the paper
+- Got the code for the paper we read.
 #### Study Log
 
-### Friday, Oct 15( hour):
+### Friday, Oct 15(1 hour):
 #### Accomplishments
-- 
+- Debugging the code.
