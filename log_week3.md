@@ -2,10 +2,10 @@
 ## Week 3 (10.11-10.17)
 ### Goals:
 
-- [ ] Update research log
-- [ ] Continue studing slides and lectures sent by professor
-- [ ] Meet and talk with porfesser and phd studentvia zoom
-- [ ] read the paper
+- [x] Update research log
+- [x] Continue studing slides and lectures sent by professor
+- [x] Meet and talk with porfesser and phd studentvia zoom
+- [x] read the paper
 
 ### Monday, Oct 11 (1.5 hour):
 #### Accomplishments
