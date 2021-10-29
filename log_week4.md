@@ -35,3 +35,4 @@
 #### Accomplishments
 - Discovered something wrong with the code
   - how the time of the queries are measured is confusing.
+  - It seems like for C++, measuing time using `duration_cast` inside and outside a function leads to certain difference.
