@@ -32,7 +32,7 @@
 - Ask questions about the paper and the code
 - Discuss the general structure of the code and all the setup.
 - Visual
-![Outcome](/images/visual.png)
+![Outcome](/visual.png)
 
 ### Friday, Oct 22(2 hour):
 #### Accomplishments
