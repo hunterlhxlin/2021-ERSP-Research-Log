@@ -9,4 +9,13 @@
 - [x] figure out how to test with DeepImpact
 
 ### Accomplishments (10 hours)
-- encountered this 
+- Start writing the research proposal base on the DeepImpact score
+- Found this pyserini project on Github that already implemented DeepImpact
+- Run the DeepImpact build index on our server
+- Found that the performance is limited
+- Noticed term-expansion feature of the DeepImpact: insert related terms into original document to boost accuracy, however this results in larger inverted indexes, thus limited performance
+- Discuss possible solutions
+- Analyze performance of DeepImpact and BM25 with differnt block size and top_k.
+- Graphs listed below.
+- ![Outcome](/visual.png)
+- ![Outcome](/visual.png)
