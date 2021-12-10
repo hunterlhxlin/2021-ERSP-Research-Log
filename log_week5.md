@@ -16,8 +16,6 @@
 - Update research log
 - Read the paper assigned by the professor
 - Located why there's the error message - missing the file that contains the normalized document length.
-#### Study Log
-- 
 
 ### Tuesday, Oct 19 (1.5 hour):
 #### Accomplishments
@@ -39,3 +37,4 @@
 - Discovered something wrong with the code
   - how the time of the queries are measured is confusing.
   - It seems like for C++, measuing time using `duration_cast` inside and outside a function leads to certain difference.
+  - Talking about this with the phd - seems like measuring time cost inside and outside a c++ function leads to quite a big difference.
