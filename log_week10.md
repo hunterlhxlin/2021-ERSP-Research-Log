@@ -27,6 +27,25 @@
   - Worked really hard but can hardly get similar outcome with others
   - solution: changed research focus when start phd
 - What's your favorite part about doing research? Tell me about a good research experience you have had.
-  - 
-What's your favorite aspect of graduate school (the whole thing, not just research or classes)? Your least favorite?
-What's your relationship like with your adviser?
+  - Intern at Apple: help improve the searching of the email app of IOS
+  - add suggestion to what users may want to search when they type something on the search bar
+  - favorite part: reading a lot of related works and implement ideas in the paper
+  - get better result than gmail
+- What's your favorite aspect of graduate school (the whole thing, not just research or classes)? Your least favorite?
+  - A lot more free time than undergrad
+  - travel, photography, get a pilot license
+  - more diverse life
+  - though this also means lack of goals, more uncertainty
+  - currently the research progess is kind of left behind
+- What's your relationship like with your adviser?
+  - Very good. Prof Yang is kind and can always consider issues from students' perspective, not pushy.
+- My own questions
+- Any plan after phd? go to big companies or post-doc, professor track
+  - probably go to some big tech company
+  - maybe another intern at apple summer 2022
+- Any other field of interest during undergrad? Why not choose these areas for phd
+  - computer graphics: the industry got monopolized by several big companies, probably hard to get good offer. also rejected by Lingqi at UCSB
+  - human computer interaction(HCI): this field is more about researchers' sudden inspiration. Intersted but probably not talented in this field
+- Seems like I've learned a lot about CS but when I want to implement something from scratch I hardly have any idea. Also hard to connect things I learned. Have you encountered this issue? how did you solve this?
+  - Have been through this during undergrad
+  - Will get better when you learn more and more and have more experience on projects 
