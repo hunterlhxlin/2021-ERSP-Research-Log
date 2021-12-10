@@ -17,5 +17,6 @@
 - Discuss possible solutions
 - Analyze performance of DeepImpact and BM25 with differnt block size and top_k.
 - Graphs listed below.
-- ![Outcome](/visual.png)
-- ![Outcome](/visual.png)
+- ![Outcome](/bmw.png)
+- ![Outcome](/tp.png)
+- try remove term expansion but no significan improvement
