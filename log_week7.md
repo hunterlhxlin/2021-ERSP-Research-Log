@@ -1,5 +1,5 @@
 # ERSP Research Log
-## Week 6 (11.1-11.7)
+## Week 7 (11.8-11.14)
 ### Goals:
 
 - [x] Update research log
