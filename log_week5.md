@@ -6,9 +6,9 @@
 - [x] Meet and talk with porfesser and phd student via zoom
 - [x] read the materials
 - [x] Get the code running, test outcome with different parameters
-- [ ] visualize the results
-- [ ] looking for related papers, get prepared for research proposal
-- [ ] Figure out the time measurement issue
+- [x] visualize the results
+- [x] looking for related papers, get prepared for research proposal
+- [x] Figure out the time measurement issue
 
 
 ### Monday, Oct 18 (1.5 hour):
