@@ -17,3 +17,5 @@
 - ![Outcome](/len_result_10.png)
 - ![Outcome](/len_result.png)
 - ![Outcome](/len_result_1000.png)
+- Also think of ways to measure retrieval accuracy: a metric called `trec`
+
