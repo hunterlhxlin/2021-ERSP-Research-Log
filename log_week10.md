@@ -9,6 +9,7 @@
 ### Accomplishments(3 hours)
 - Review for final tests and working on final projects, not too much work this week
 - Interview our mentor Yifan Qiao
+#### Interview
 - How did you decided to go to graduate school? How did you decide on a masters'/PhD over the other option?
   - Have interest in doing research, also in China often a bachelor degree may not be enough. Choose phd because it's cheaper than grad school
 - Did you work before going to graduate school?
@@ -45,7 +46,10 @@
   - maybe another intern at apple summer 2022
 - Any other field of interest during undergrad? Why not choose these areas for phd
   - computer graphics: the industry got monopolized by several big companies, probably hard to get good offer. also rejected by Lingqi at UCSB
-  - human computer interaction(HCI): this field is more about researchers' sudden inspiration. Intersted but probably not talented in this field
+  - human computer interaction(HCI): focus of undergrad thesis, this field is more about researchers' sudden inspiration. Intersted but probably not that talented in this field
 - Seems like I've learned a lot about CS but when I want to implement something from scratch I hardly have any idea. Also hard to connect things I learned. Have you encountered this issue? how did you solve this?
   - Have been through this during undergrad
   - Will get better when you learn more and more and have more experience on projects 
+ 
+#### Interview Reflection
+- I think one of the things I learned from this interview is that now I know there are other students that are just as "lost" as I am: have studied a bit of every aspectof CS, have several fields that are intersted but not sure which one should be the focus in the future. I've been worried that trying everything and then decide may be too late, however this interview reminds me that there's no need for me to panic. Yifan has been through a lot of problems I am facing and I think his experience will be a good reference for me to come up with solutions to my current academic problems.
