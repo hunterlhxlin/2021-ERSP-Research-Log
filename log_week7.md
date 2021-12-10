@@ -20,3 +20,5 @@
 - ![Outcome](/bmw.png)
 - ![Outcome](/tp.png)
 - try remove term expansion but no significan improvement
+- ![Outcome](/bmw_t.png)
+- ![Outcome](/tp_t.png)
